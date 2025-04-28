@@ -9,17 +9,19 @@ O principal objetivo deste repositório é registrar meu progresso e aprendizado
 * Excel: Para manipulação de dados, quando necessário.
 * Conceitos de Visualização de Dados: Foco em gráficos, tabelas e interatividade.
 
-📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 Cada pasta neste repositório contém um projeto de dashboard específico. A estrutura do repositório é organizada da seguinte forma:
 
+```
 /powerbi-dashboards-estudos
     /Dashboard_1
-        README.md  # Explicação do projeto específico
+        README.md   # Explicação do projeto específico
         Dashboard.pbix
     /Dashboard_2
-        README.md  # Explicação do projeto específico
+        README.md   # Explicação do projeto específico
         Dashboard.pbix
     ...
+```
 
 ## 🚀 O Que Você Vai Encontrar Aqui
 * Projetos Diversos: Cada dashboard foi criado com um propósito específico, abordando diferentes tipos de análise de dados e visualização.
